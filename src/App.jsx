@@ -508,7 +508,7 @@ export default function Portfolio() {
         <div className="max-w-6xl mx-auto">
           <h2 className="flex items-center gap-2 text-3xl md:text-4xl font-bold text-cyan-300 mb-8">
             <Code />
-            Selected AI & Agentic Work
+             AI & Agentic Work
           </h2>
           <div className="grid gap-6 md:grid-cols-3">
             {projects.map((project) => (
