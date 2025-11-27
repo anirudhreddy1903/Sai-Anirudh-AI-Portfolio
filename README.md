@@ -130,15 +130,3 @@ This portfolio includes:
 * Full-Stack LLM Application Engineering
 
 I love collaborating on meaningful products where AI meets real impact.
-
----
-
-## 📎 **How To Use This Repository**
-
-This repository contains my **Ultra-Modern AI Engineer Portfolio**, built with:
-
-* React + Vite
-* TailwindCSS
-* Lucide Icons
-* Animated Skill Cloud + Gradient Mesh
-* Fully responsive design
