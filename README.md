@@ -118,7 +118,7 @@ This portfolio includes:
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy/](https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy/)
 * 💻 **GitHub:** [https://github.com/anirudhreddy1903](https://github.com/anirudhreddy1903)
 * ✉️ **Email:** [anirudhvallapureddy@outlook.com](mailto:anirudhvallapureddy@outlook.com)
-* 📍 Atlanta / Overland Park — open to relocation & remote
+* 📍 Overland Park, KS — open to relocation & remote
 
 ---
 
