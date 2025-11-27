@@ -298,7 +298,8 @@ export default function Portfolio() {
 
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <a
-                href="https://1drv.ms/b/c/399C02D85A4DF7DD/IQAiHkl7_BnzR5LHQnuKt_Z_AV2Lg1-6vNvaVuhHtx1EAlI?e=XKGd1X"
+                href="https://1drv.ms/b/c/399C02D85A4DF7DD/IQA5-_IWaMirQ5NT0pZgEBwpAThCEU7tUfzGkfc6Yzhycq8?e=wy6vUu" //SDET RESUME LINK
+                //href="https://1drv.ms/b/c/399C02D85A4DF7DD/IQAiHkl7_BnzR5LHQnuKt_Z_AV2Lg1-6vNvaVuhHtx1EAlI?e=XKGd1X" //SDE Resume Link
                 className="inline-flex items-center gap-2 rounded-full bg-cyan-500 px-5 py-2.5 text-sm font-semibold text-slate-950 shadow-[0_0_35px_rgba(34,211,238,0.9)] hover:bg-cyan-400 transition"
               >
                 <Download size={18} />
