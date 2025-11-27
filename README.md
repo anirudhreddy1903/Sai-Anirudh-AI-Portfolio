@@ -1,8 +1,3 @@
-Absolutely — here is a **professionally written, modern, AI-engineer-focused GitHub README** tailored to *your exact profile*, *your resume*, and *your new portfolio*.
-This is copy-paste ready for your repository.
-
----
-
 # 🌌 **Sai Anirudh Reddy Vallapureddy — Generative AI Engineer | Agentic Systems | Full-Stack ML**
 
 Hi! I’m **Sai Anirudh Reddy**, a Software & AI Engineer focused on building **production-grade Agentic AI systems**, **LLM-powered automation**, and **end-to-end GenAI applications** that integrate seamlessly with real business platforms.
@@ -120,7 +115,7 @@ This portfolio includes:
 
 ## 📫 **Let’s Connect**
 
-* 🔗 **LinkedIn:** [https://linkedin.com/in/sai-vallapureddy](https://linkedin.com/in/sai-vallapureddy)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy/](https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy/)
 * 💻 **GitHub:** [https://github.com/anirudhreddy1903](https://github.com/anirudhreddy1903)
 * ✉️ **Email:** [anirudhvallapureddy@outlook.com](mailto:anirudhvallapureddy@outlook.com)
 * 📍 Atlanta / Overland Park — open to relocation & remote
