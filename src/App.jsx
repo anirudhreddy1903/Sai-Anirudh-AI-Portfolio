@@ -271,7 +271,7 @@ export default function Portfolio() {
           <div>
             <p className="inline-flex items-center gap-2 rounded-full border border-cyan-400/30 bg-slate-950/70 px-3 py-1 text-[11px] uppercase tracking-[0.28em] text-cyan-200 shadow-[0_0_18px_rgba(34,211,238,0.55)]">
               <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
-              Open to Software & AI / Agentic Roles
+              Open to Software Engineering & AI / Agentic Roles
             </p>
 
             <h1 className="mt-6 text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
