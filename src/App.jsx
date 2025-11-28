@@ -95,7 +95,9 @@ export default function Portfolio() {
     "Cloud & Platforms": [
       "AWS (EC2, S3, RDS, Lambda, ECS, EKS)",
       "Azure (ADF, Databricks, Key Vault)",
-      "Snowflake",
+      "GCP (Compute Engine, Cloud Run, Cloud Functions, BigQuery, Cloud Storage, Vertex AI)",
+      "Oracle Cloud (OCI Compute, Object Storage, Autonomous Database, API Gateway, Functions)",
+      "Snowflake (Warehouses, Snowpipe, Streams & Tasks, Dynamic Tables, Iceberg Tables, Snowpark, Data Sharing)",
       "PCF",
       "Docker",
       "Kubernetes",
@@ -291,7 +293,7 @@ export default function Portfolio() {
 
             <p className="mt-4 text-sm md:text-base text-slate-300/90 max-w-2xl">
               5+ years across telco-scale microservices, Kafka event streams, and
-              cloud platforms (AWS, Azure, Snowflake). Recently, I&apos;ve been
+              cloud platforms (AWS, Azure, GCP, Oracle Cloud). Recently, I&apos;ve been
               designing AI-driven workflows that self-heal failures, reduce manual
               toil, and keep customer journeys smooth.
             </p>
