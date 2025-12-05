@@ -317,7 +317,7 @@ export default function Portfolio() {
                 GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy/"
+                href="https://www.linkedin.com/in/sai-anirudh-reddy-vallapureddy?trk=people-guest_people_search-card"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-full border border-fuchsia-400/60 bg-slate-950/80 px-4 py-2 text-sm font-medium text-fuchsia-100 hover:bg-slate-900 hover:shadow-[0_0_25px_rgba(236,72,153,0.8)] transition"
